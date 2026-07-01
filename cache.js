@@ -103,7 +103,7 @@ filesToCache = [
 "./data/3D/two_bedroom_dormitory_new/uhd/two_bedroom_dormitory_new.glbimg_2.jpeg",
 "./data/3D/two_bedroom_dormitory_new/uhd/two_bedroom_dormitory_new.glbimg_3.png",
 "./data/3D/two_bedroom_dormitory_new.glb",
-"./data/BE GLOBAL_Mesa de trabajo 1.png",
+"./data/BE_GLOBAL_Mesa_de_trabajo_1.png",
 "./data/fonts/constan.ttf",
 "./data/fonts/mvboli.ttf",
 "./data/hd/panoramas/339454B1-E741-4CF5-A0A6-AC26B1C31E3B.jpg",
